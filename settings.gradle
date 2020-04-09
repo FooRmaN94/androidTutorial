@@ -1,0 +1,2 @@
+rootProject.name='RF Pocket Calculator'
+include ':app'
